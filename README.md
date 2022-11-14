@@ -1,9 +1,9 @@
-#### Formal specification 
-### How to PREPARE for it job market
-# simple summary of Dr.AbuBaker lecture on YouTube 
-# Summary file :
+# Formal specification 
+## How to PREPARE for it job market
+### simple summary of Dr.AbuBaker lecture on YouTube 
+#### Summary file :
 [How to PREPARE for it job market .pdf](https://github.com/psau-edu-sa/se3131-article-Noura-Bader/files/10003236/How.to.PREPARE.for.it.job.market.pdf)
-# the video Link : 
+#### the video Link : 
 https://youtu.be/mDIoXmblQKU
-# Summaraized by : 
+#### Summaraized by : 
 Noura Alsheddi 
