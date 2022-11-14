@@ -1,1 +1,14 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9309191&assignment_repo_type=AssignmentRepo)
+#### Formal specification 
+### How to PREPARE for it job market
+
+### ملخص بسيط عن كيفية الإستعداد لسوق العمل التقني 
+## لمحاضرة الدكتور ابو بكر في ياليوتيوب 
+
+## Summary file :
+[How to PREPARE for it job market .pdf](https://github.com/psau-edu-sa/se3131-article-Noura-Bader/files/10003236/How.to.PREPARE.for.it.job.market.pdf)
+
+## the video Link : 
+https://youtu.be/mDIoXmblQKU
+
+## Summaraized by : 
+## Noura Alsheddi 
